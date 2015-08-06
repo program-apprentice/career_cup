@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
  * Date: 8/4/15
  * Time: 2:24 PM
  */
-public class Question_1_2_Test {
+public class Question1_2_Test {
     @Test
     public void test1() {
         String s = "abcd";
